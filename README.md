@@ -1,4 +1,3 @@
-permalink: /index.html
 
 ## This is a test React Admin App.
 
